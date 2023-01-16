@@ -1,6 +1,6 @@
 import sensor, image, os, time
 
-sensor.reset()                      # Reset and initialize the sensor.
+sensor.reset()                       # Reset and initialize the sensor.
 sensor.set_pixformat(sensor.GRAYSCALE) # Set pixel format to RGB565 (or GRAYSCALE)
 sensor.set_framesize(sensor.HQVGA)   # Set frame size to HQVGA (240x160)
 sensor.skip_frames(time = 2000)     # Wait for settings take effect.
