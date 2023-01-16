@@ -30,9 +30,9 @@ from time import sleep
 while True:
     print("Starting")
     if motion_detected():
-        sleep(5)
+        sleep(5) #Detecting in 5 seconds
         gate.openUp()
-        sleep(5)
+        sleep(5) #Detecting in 5 seconds
         gate.closeDown()
     else:
         print('Do not open')
