@@ -16,4 +16,4 @@ def motion_detected(): #Motion Function
 
 while True:
     motion_detected()
-    time.sleep(2)
+    time.sleep(2) #Detect in 2 seconds
