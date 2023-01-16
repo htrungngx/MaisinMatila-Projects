@@ -6,6 +6,7 @@ This Metropolia Big-Flash project focuses on advancing Artificial intelligence a
 
 Maisin Maatila project embraces the above idea to gratify customers and optimize logistics cost for manufacturers. Owning an automated pick-up system can save human resources, increase productivity, make it scaleable, and focus more on management. Our system will essentially permit the entry of drivers via their car plate, compared to its on our database, then send a signal to open the entrance gate. At the existing gate, an ultrasonic distance sensor will be installed in order to recognize outcome cars and send them back to database. Maisin Maatila project ensures bringing convenience, saves time and optimizes supply chain for both customers and the company
 
+
 # Materials:
 * Arduino Portenta H7 - [Portenta H7](https://store.arduino.cc/products/portenta-h7).
 * Arduino Vision Shield - [Portenta Vision Shield](https://store-usa.arduino.cc/products/arduino-portenta-vision-shield-ethernet).
@@ -52,9 +53,14 @@ Others:
 * Connect wire from ground pin to ground in Arduino
 * Connect wire from data pin to pin "PC3" in Arduino
 
-#Ref
+# Final Report
+
+[Report](https://docs.google.com/document/d/10kojgWrZTQAsMv4OUa6YUgATDYE_Qozs/edit)
+
+# Ref
 * [Big-flash](https://bigflash.metropolia.fi/)
 * [Maisin Maatila](https://www.mattilafarm.com/fi)
+
 
 
 
