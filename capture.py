@@ -13,3 +13,4 @@ def captureImage():
     time.sleep(2.5) #Wait 2.5 seconds before send confirmation
     print('Image captured and saved')
     return # Make sure the image is saved and then continue
+
