@@ -28,7 +28,7 @@ def stop(): #Turn off Motor
 def openUp():
     while True:
         open()
-        sleep(3)
+        sleep(3) #Open in 3 seconds
         stop()
         break
 
@@ -36,7 +36,7 @@ def openUp():
 def closeDown():
     while True:
         close()
-        sleep(5)
+        sleep(5) #Open in 5 seconds
         stop()
 
 while True:
